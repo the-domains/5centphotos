@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[5CentPhotos]]></title>
         <description><![CDATA[5CentPhotos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/5centphotos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 14:40:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 14:41:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/5centphotos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ATx]]></title>
             <description><![CDATA[<article><h1>ATx</h1><p>Back then-</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7323a5f2-7d84-4cac-9b21-5cd133883a09.jpg"></article>]]></description>
-            <link>undefinedatx/index.html</link>
+            <link>https://thegrid.ai/5centphotos/atx/index.html</link>
             <guid isPermaLink="false">f465c007-8a41-493f-ac6a-28d02fae4b76</guid>
-            <pubDate>Mon, 19 Oct 2015 14:40:44 GMT</pubDate>
+            <pubDate>Mon, 19 Oct 2015 14:41:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
