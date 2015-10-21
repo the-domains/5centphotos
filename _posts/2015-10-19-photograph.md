@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-19T14:55:09.731Z'
-dateModified: '2015-10-19T14:54:52.897Z'
-title: photograph
+description: brother and sister circa 1936
+datePublished: '2015-10-21T16:11:13.109Z'
+dateModified: '2015-10-21T16:10:16.282Z'
+title: Kids
+sourcePath: _posts/2015-10-19-photograph.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-19-photograph.md
-published: true
 url: photograph/index.html
 _type: Article
 
