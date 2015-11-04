@@ -1,29 +1,41 @@
-name: 5CentPhotos
-favicon: null
-layout_spectrum: 0.43025
-typography_spectrum: 0.1148
 title: worth every penny
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4054779
+  brandStrength: 0.8558714892715216
+  lightness: 0.3571428
   brandColors:
     - '#131313'
     - '#e6e6e6'
     - '#2597c7'
     - '#606060'
     - '#aaaaaa'
-  brandStrength: 0.8558714892715216
-  lightness: 0.2660463380161673
-  saturation: 0.4460507135372609
-  rhythmicContrast: 0.05450101103633642
-purpose: []
+  rhythmicContrast: 0.3259935
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: 5CentPhotos
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1148
+layout_spectrum: 0.9607948
