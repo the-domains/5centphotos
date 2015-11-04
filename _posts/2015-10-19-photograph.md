@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: brother and sister circa 1936
-datePublished: '2015-10-21T16:11:13.109Z'
-dateModified: '2015-10-21T16:10:16.282Z'
+datePublished: '2015-11-04T00:28:22.476Z'
+dateModified: '2015-10-21T16:11:13.109Z'
 title: Kids
 sourcePath: _posts/2015-10-19-photograph.md
 published: true
