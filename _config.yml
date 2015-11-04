@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.4054779
+  saturation: 0.4548872
+  lightness: 0.5440387
   brandStrength: 0.8558714892715216
-  lightness: 0.3571428
   brandColors:
     - '#131313'
     - '#e6e6e6'
     - '#2597c7'
     - '#606060'
     - '#aaaaaa'
-  rhythmicContrast: 0.3259935
+  rhythmicContrast: 0.716971
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: 5CentPhotos
+favicon: null
 opengraph:
   image: null
   type: null
